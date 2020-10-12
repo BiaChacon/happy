@@ -2,18 +2,18 @@
   <img 
     src="https://user-images.githubusercontent.com/42190754/95762044-8bc31880-0c83-11eb-9fa1-29d644b4799f.png" 
     float="center"
-    width="500px"
-    heigh="500px"
+    width="350px"
+    heigh="350px"
   />
   <img 
     src="https://user-images.githubusercontent.com/42190754/95761520-ce382580-0c82-11eb-9a54-d066ed46b6db.png" 
     float="center"
-     width="300px"
-    heigh="300px"
+     width="200px"
+    heigh="200px"
   />
 </h1>
  <p align="center">
-  <strong align="center">Application to help people find orphanages near them.</strong>
+  <strong align="center">Application to help people find orphanages near them so they can visit children.</strong>
 </p>
 <p align="center">
   <strong align="center">Backend  |  Frontend  |  Mobile</strong>
