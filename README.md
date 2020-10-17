@@ -13,7 +13,7 @@
   />
 </h1>
  <p align="center">
-  <strong align="center">Application to help people find orphanages near them so they can visit children.</strong>
+  <strong align="center">Application to help people find institutional care homes near them so they can visit children.</strong>
 </p>
 <p align="center">
   <strong align="center">Backend  |  Frontend  |  Mobile</strong>
@@ -45,7 +45,11 @@ Technologies used in the [backend](https://github.com/BiaChacon/happy/tree/maste
 ### 💻 Frontend
 Technologies used in the [frontend](https://github.com/BiaChacon/happy/tree/master/frontend):
 - React;
-- Axios;
+- React Router Dom;
+- Leaflet;
+- React Leaflet;
+- Mapbox;
+- Axios.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/42190754/96145747-e9ea3880-0edb-11eb-951e-5efc823ce11e.gif" float="center"/>
@@ -60,6 +64,7 @@ Technologies used in the [frontend](https://github.com/BiaChacon/happy/tree/mast
 Technologies used in the [mobile](https://github.com/BiaChacon/happy/tree/master/mobile):
 - React Native;
 - Expo;
+- Expo Image Picker;
 - Axios.
 
 <br/>
